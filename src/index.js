@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-//import './index.css';
+import './index.css';
 
 const MyReactApp = props => {
   const { width='200px', height='200px', color='gold', bgColor, content='hello..' } = props;
